@@ -1,0 +1,11 @@
+/Users/kaan/Desktop/Console Programlama/operatörler/bin/Debug/net7.0/operatörler
+/Users/kaan/Desktop/Console Programlama/operatörler/bin/Debug/net7.0/operatörler.dll
+/Users/kaan/Desktop/Console Programlama/operatörler/bin/Debug/net7.0/operatörler.pdb
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.csproj.AssemblyReference.cache
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.AssemblyInfoInputs.cache
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.AssemblyInfo.cs
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.csproj.CoreCompileInputs.cache
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.dll
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/refint/operatörler.dll
+/Users/kaan/Desktop/Console Programlama/operatörler/obj/Debug/net7.0/operatörler.pdb
